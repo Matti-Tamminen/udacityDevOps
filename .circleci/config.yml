@@ -26,3 +26,7 @@ jobs:
           name: Back-End Build
           command: |
             yarn run backend:build
+      - run:
+          name: Deploy App
+          command: |
+            yarn run frontend:deploy

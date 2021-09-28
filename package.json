@@ -3,6 +3,7 @@
         "frontend:install": "cd reactnd-contacts-complete && yarn",
         "backend:install": "cd reactnd-contacts-server && yarn",
         "frontend:build": "cd reactnd-contacts-complete && yarn run build",
-        "backend:build": "cd reactnd-contacts-server && yarn run build"
+        "backend:build": "cd reactnd-contacts-server && yarn run build",
+        "frontend:deploy": "cd reactnd-contacts-complete && yarn run deploy"
     }
 }

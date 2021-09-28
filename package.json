@@ -1,0 +1,8 @@
+{
+    "scripts": {
+        "frontend:install": "cd reactnd-contacts-complete && pwd && yarn",
+        "backend:install": "cd reactnd-contacts-server && pwd && yarn",
+        "frontend:build": "cd reactnd-contacts-complete/ && pwd && yarn run build",
+        "backend:build": "cd reactnd-contacts-server/ && pwd && yarn run build"
+    }
+}

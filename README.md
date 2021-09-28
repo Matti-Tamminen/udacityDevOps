@@ -1,3 +1,1 @@
-# udacityDevOps
-# udacityDeploy
-# udacityDevOps
+# udacityDevops
